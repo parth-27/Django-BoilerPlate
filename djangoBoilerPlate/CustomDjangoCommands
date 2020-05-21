@@ -1,0 +1,3 @@
+custom commands used in django.
+custom commands are only installed in the app we created.
+1. python3 manage.py help (to see all the commands we can use it)
